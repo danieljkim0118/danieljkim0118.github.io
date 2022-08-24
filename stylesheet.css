@@ -83,6 +83,10 @@
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px
   }
+
+  li{
+    margin: 10px 0;
+  }
   
   strong {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
